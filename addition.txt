@@ -1,0 +1,8 @@
+Let's today task was to create additon by using 2 even numbers
+
+evennumbers are 2,4,6,8,... which divide by 2
+
+here is the example for addtion with even numbers
+
+2+4=6
+4+6=10...
