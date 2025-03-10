@@ -1,0 +1,8 @@
+Let's today task was to create subtraction by using 2 odd numbers
+
+evennumbers are 1,3,5,7,9 which not divide by 2
+
+here is the example for addtion with even numbers
+
+1-3 = 2
+3-5 = 2...
